@@ -44,41 +44,41 @@
   - ITサービスマネジメント
 
 - [NECマネジメントパートナー](https://www.neclearning.jp/searchCategory)
-    - [▼新入社員研修/内定者研修](https://www.neclearning.jp/searchOption/action/result?category1=A02&category2=&category3=&category4=&andOr=1&dispList=1)
-      - [ビジネススキル／IT基本スキル](https://www.neclearning.jp/search/coursemap/A02_02.html)
-      - [システム構築トレーニング](https://www.neclearning.jp/search/coursemap/A02_03.html)
-    - [▼テクニカルスキル](https://www.neclearning.jp/searchOption/action/result?category1=A06&category2=&category3=&category4=&andOr=1&dispList=1)
-      - デジタルトランスフォーメーション（DX）
-      - クラウドコンピューティング
-      - システム開発
-      - プログラミング
-      - ＯＳ/システム基盤
-      - セキュリティ
-      - ネットワーク
-      - Webサイト構築
-      - データベース
-      - 情報処理技術者試験・情報処理安全確保支援士試験 対策
-      - ITリテラシ
-      - 組込みシステム・組込みソフトウェア
-    - [▼ITマネジメントスキル](https://www.neclearning.jp/searchOption/action/result?category1=A13&category2=&category3=&category4=&andOr=1&dispList=1)
-      - プロジェクトマネジメント
-      - 品質保証
-      - ITサービスマネジメント
-    - [▼ビジネススキル・ヒューマンスキル・キャリア](https://www.neclearning.jp/searchOption/action/result?category1=A03&category2=&category3=&category4=&andOr=1&dispList=1)
-      - 業務効率・達成力
-      - 業種業務遂行力
-      - 対話・プレゼンテーション
-      - ドキュメンテーション
-      - 思考法・問題解決
-      - 動機付け/働きかけ
-      - 交渉力
-      - リーダーシップ
-      - ファシリテーション
-      - 経営・企画力
-      - キャリアプランニング
-      - セールス
-      - コンサルティング
-      - ダイバーシティ・職場環境
+  - [▼新入社員研修/内定者研修](https://www.neclearning.jp/searchOption/action/result?category1=A02&category2=&category3=&category4=&andOr=1&dispList=1)
+    - [ビジネススキル／IT基本スキル](https://www.neclearning.jp/search/coursemap/A02_02.html)
+    - [システム構築トレーニング](https://www.neclearning.jp/search/coursemap/A02_03.html)
+  - [▼テクニカルスキル](https://www.neclearning.jp/searchOption/action/result?category1=A06&category2=&category3=&category4=&andOr=1&dispList=1)
+    - デジタルトランスフォーメーション（DX）
+    - クラウドコンピューティング
+    - システム開発
+    - プログラミング
+    - ＯＳ/システム基盤
+    - セキュリティ
+    - ネットワーク
+    - Webサイト構築
+    - データベース
+    - 情報処理技術者試験・情報処理安全確保支援士試験 対策
+    - ITリテラシ
+    - 組込みシステム・組込みソフトウェア
+  - [▼ITマネジメントスキル](https://www.neclearning.jp/searchOption/action/result?category1=A13&category2=&category3=&category4=&andOr=1&dispList=1)
+    - プロジェクトマネジメント
+    - 品質保証
+    - ITサービスマネジメント
+  - [▼ビジネススキル・ヒューマンスキル・キャリア](https://www.neclearning.jp/searchOption/action/result?category1=A03&category2=&category3=&category4=&andOr=1&dispList=1)
+    - 業務効率・達成力
+    - 業種業務遂行力
+    - 対話・プレゼンテーション
+    - ドキュメンテーション
+    - 思考法・問題解決
+    - 動機付け/働きかけ
+    - 交渉力
+    - リーダーシップ
+    - ファシリテーション
+    - 経営・企画力
+    - キャリアプランニング
+    - セールス
+    - コンサルティング
+    - ダイバーシティ・職場環境
 
 ---
 
