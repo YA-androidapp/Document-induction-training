@@ -80,6 +80,41 @@
     - コンサルティング
     - ダイバーシティ・職場環境
 
+- [トレノケート](https://www.trainocate.co.jp/)
+  - ベンダートレーニング
+    - Amazon WebServices
+    - Microsoft
+    - Cisco
+    - Google
+    - Oracle
+    - VMware
+    - Trend Micro
+    - ServiceNow
+    - Palo AltoNetworks
+    - EC-Council
+  - ITトレーニング
+    - [IT基礎・入門](https://www.trainocate.co.jp/reference/introduction/)
+    - DX
+    - データ分析
+    - AI
+    - セキュリティ
+    - プログラミング/開発
+    - ITインフラ
+    - ネットワーク
+    - データベース
+    - OS/Server
+  - ビジネストレーニング
+    - コミュニケーション
+    - プレゼンテーション
+    - リーダーシップ
+    - 新任管理職研修
+    - リスキリング支援（研修内製化）
+    - プロジェクトマネジメント
+    - ITコンサルタント
+    - PMP®試験対策
+    - ITIL®
+    - グローバル人材育成/AMA
+
 ---
 
 # 各社
