@@ -6,6 +6,80 @@
 
 # 研修会社
 
+- [富士通ラーニングメディア](https://www.knowledgewing.com/kw/search/ca/)
+  - デジタル組織・戦略
+  - デジタル思考
+  - デジタルプロセス
+  - デジタルテクノロジー
+  - リーダーシップ
+  - コミュニケーション
+  - 実行／オペレーション
+  - マネジメント
+  - 業務改善／IT活用
+  - Microsoft Office
+  - [新入社員／若手社員](https://www.knowledgewing.com/kw/search/ca/#014)
+    - [入社前研修](https://www.knowledgewing.com/kw/coursemap/ca014115.htm)
+    - [新入社員のための専用カリキュラム](https://www.knowledgewing.com/kw/coursemap/ca014111.htm)
+    - [業務で使用するITの基礎](https://www.knowledgewing.com/kw/coursemap/ca014119.htm)
+    - [プログラミング基礎](https://www.knowledgewing.com/kw/coursemap/ca014120.htm)
+    - [配属後のフォロー研修（技術深掘り推奨カリキュラム）](https://www.knowledgewing.com/kw/coursemap/ca014114.htm)
+    - [配属後のフォロー研修（ヒューマンスキル）](https://www.knowledgewing.com/kw/coursemap/ca014118.htm)
+    - [指導者向け研修](https://www.knowledgewing.com/kw/coursemap/ca014116.htm)
+    - [キャリアデザイン](https://www.knowledgewing.com/kw/coursemap/ca014122.htm)
+  - <s>中堅／幹部／中高年</s>
+  - ITソリューションセールス
+  - 上流／テスト（情報システム部門）
+  - プロジェクトマネジメント
+  - 上流／テスト（システムエンジニア）
+  - 言語
+  - Webアプリケーション開発技術
+  - Webコンテンツ開発技術
+  - システム基盤共通
+  - サーバ
+  - データベース
+  - ネットワーク
+  - システム運用管理
+  - セキュリティ
+  - 情報処理技術者試験対策講座
+  - ITサービスマネジメント
+
+- [NECマネジメントパートナー](https://www.neclearning.jp/searchCategory)
+    - [▼新入社員研修/内定者研修](https://www.neclearning.jp/searchOption/action/result?category1=A02&category2=&category3=&category4=&andOr=1&dispList=1)
+      - [ビジネススキル／IT基本スキル](https://www.neclearning.jp/search/coursemap/A02_02.html)
+      - [システム構築トレーニング](https://www.neclearning.jp/search/coursemap/A02_03.html)
+    - [▼テクニカルスキル](https://www.neclearning.jp/searchOption/action/result?category1=A06&category2=&category3=&category4=&andOr=1&dispList=1)
+      - デジタルトランスフォーメーション（DX）
+      - クラウドコンピューティング
+      - システム開発
+      - プログラミング
+      - ＯＳ/システム基盤
+      - セキュリティ
+      - ネットワーク
+      - Webサイト構築
+      - データベース
+      - 情報処理技術者試験・情報処理安全確保支援士試験 対策
+      - ITリテラシ
+      - 組込みシステム・組込みソフトウェア
+    - [▼ITマネジメントスキル](https://www.neclearning.jp/searchOption/action/result?category1=A13&category2=&category3=&category4=&andOr=1&dispList=1)
+      - プロジェクトマネジメント
+      - 品質保証
+      - ITサービスマネジメント
+    - [▼ビジネススキル・ヒューマンスキル・キャリア](https://www.neclearning.jp/searchOption/action/result?category1=A03&category2=&category3=&category4=&andOr=1&dispList=1)
+      - 業務効率・達成力
+      - 業種業務遂行力
+      - 対話・プレゼンテーション
+      - ドキュメンテーション
+      - 思考法・問題解決
+      - 動機付け/働きかけ
+      - 交渉力
+      - リーダーシップ
+      - ファシリテーション
+      - 経営・企画力
+      - キャリアプランニング
+      - セールス
+      - コンサルティング
+      - ダイバーシティ・職場環境
+
 ---
 
 # 各社
