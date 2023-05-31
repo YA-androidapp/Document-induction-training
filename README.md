@@ -8,12 +8,31 @@
 <!-- TOC -->
 
 - [Document-induction-training](#document-induction-training)
+  - [情報処理技術者試験](#情報処理技術者試験)
+    - [シラバス](#シラバス)
+    - [過去問題](#過去問題)
   - [各社](#各社)
   - [研修会社](#研修会社)
 
 <!-- /TOC -->
 
 ---
+
+## 情報処理技術者試験
+<a id="markdown-%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93" name="%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93"></a>
+
+### シラバス
+<a id="markdown-%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9" name="%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9"></a>
+
+- [ITパスポート](https://www.ipa.go.jp/shiken/syllabus/ps6vr7000000i9bs-att/syllabus_ip_ver6_0.pdf)
+- [情報セキュリティマネジメント試験](https://www.ipa.go.jp/shiken/syllabus/ps6vr7000000ivbr-att/syllabus_sg_ver3_3.pdf)
+- [基本情報技術者試験](https://www.ipa.go.jp/shiken/syllabus/ps6vr7000000ivcd-att/syllabus_fe_ver8_0.pdf)
+- [応用情報技術者試験](https://www.ipa.go.jp/shiken/syllabus/ps6vr7000000iv9s-att/syllabus_ap_ver6_2.pdf)
+
+### 過去問題
+<a id="markdown-%E9%81%8E%E5%8E%BB%E5%95%8F%E9%A1%8C" name="%E9%81%8E%E5%8E%BB%E5%95%8F%E9%A1%8C"></a>
+
+- [問題冊子・配点割合・解答例・採点講評](https://www.ipa.go.jp/shiken/mondai-kaiotu/index.html)
 
 ## 各社
 <a id="markdown-%E5%90%84%E7%A4%BE" name="%E5%90%84%E7%A4%BE"></a>
