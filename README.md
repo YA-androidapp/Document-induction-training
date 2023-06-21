@@ -12,6 +12,7 @@
     - [シラバス](#シラバス)
     - [過去問題](#過去問題)
   - [各社](#各社)
+  - [個人](#個人)
   - [研修会社](#研修会社)
 
 <!-- /TOC -->
@@ -147,6 +148,14 @@
 - SEGA
   - [クォータニオンとは何ぞや？：基礎線形代数講座](https://techblog.sega.jp/entry/2021/06/15/100000)
   - [アーケードゲームを支えるデバッグ術](https://techblog.sega.jp/entry/2020/11/25/100000)
+
+---
+
+## 個人
+<a id="markdown-%E5%80%8B%E4%BA%BA" name="%E5%80%8B%E4%BA%BA"></a>
+
+- [【入門】データベース設計まとめ](https://qiita.com/KNR109/items/5d4a1954f3e8fd8eaae7)
+- [タスクばらし入門](https://zenn.dev/tbpgr/books/8562293d519b8b)
 
 ---
 
